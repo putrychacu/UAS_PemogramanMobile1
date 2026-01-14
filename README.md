@@ -26,7 +26,7 @@ informasi wisata daerah Bekasi secara digital dan interaktif.
 - YouTube (Video Prototype)
 
 ## Prototype Video
-
+https://youtu.be/UzWZeVVl6OA
 
 ## Timeline Project
 https://app.clickup.com/90181783303/v/b/s/90189311894
