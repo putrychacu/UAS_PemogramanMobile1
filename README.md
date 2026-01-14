@@ -29,7 +29,7 @@ informasi wisata daerah Bekasi secara digital dan interaktif.
 
 
 ## Timeline Project
-
+https://app.clickup.com/90181783303/v/b/s/90189311894
 
 ## Dibuat oleh
 Nama  : Annisa Putri
